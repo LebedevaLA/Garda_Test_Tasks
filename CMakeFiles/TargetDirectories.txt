@@ -1,3 +1,0 @@
-C:/Users/armok/Documents/lebedeva/garda/CMakeFiles/HelloWord.dir
-C:/Users/armok/Documents/lebedeva/garda/CMakeFiles/ALL_BUILD.dir
-C:/Users/armok/Documents/lebedeva/garda/CMakeFiles/ZERO_CHECK.dir
